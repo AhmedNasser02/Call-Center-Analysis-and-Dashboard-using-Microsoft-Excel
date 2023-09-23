@@ -1,1 +1,2 @@
 # Call-Center-Analysis-and-Dashboard-using-Microsoft-Excel
+call center analysis dashboard, which I created using Excel and my own data analysis skills. My dashboard provides insights into call volume, response times, call sentiment, and more. The data is visualized in a variety of charts and graphs, making it easy to understand and use to make informed decisions. I hope this dashboard will be a valuable tool for call center managers and employees.
